@@ -1,5 +1,4 @@
-﻿﻿*** START OF THE PROJECT GUTENBERG EBOOK ALICE'S ADVENTURES IN
-WONDERLAND ***
+*** START OF THE PROJECT GUTENBERG EBOOK 11 ***
 [Illustration]
 
 
@@ -1785,7 +1784,7 @@ two.
 
 “So they were,” said the Dormouse; “_very_ ill.”
 
-Alice tried to fancy to herself what such an extraordinary ways of
+Alice tried to fancy to herself what such an extraordinary way of
 living would be like, but it puzzled her too much, so she went on: “But
 why did they live at the bottom of a well?”
 
@@ -3380,5 +3379,5 @@ their simple joys, remembering her own child-life, and the happy summer
 days.
 
 THE END
-*** END OF THE PROJECT GUTENBERG EBOOK ALICE'S ADVENTURES IN
-WONDERLAND ***
+
+*** END OF THE PROJECT GUTENBERG EBOOK 11 ***
